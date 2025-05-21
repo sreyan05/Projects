@@ -1,0 +1,9 @@
+com/insurance/InsuranceCrmApplication.class
+com/insurance/model/Policy$PolicyType.class
+com/insurance/controller/InsuranceController.class
+com/insurance/repository/PolicyRepository.class
+com/insurance/model/Client.class
+com/insurance/model/Policy.class
+com/insurance/repository/ClientRepository.class
+com/insurance/service/InsuranceService.class
+com/insurance/service/InsuranceService$1.class
